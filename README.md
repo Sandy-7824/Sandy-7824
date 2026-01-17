@@ -2,7 +2,11 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Sandeep Yadav I am a multifaceted web development professional with expertise in UI/UX design and WordPress development. My skills span across creating user-centered design solutions and building robust, visually appealing websites on the WordPress platform. Currently, i am Working as a Content Writer at Techeot Solution LLT, my good Knowledge of AI and Communication to produce high-quality Content. My passion lies in crafting seamless user experiences and developing innovative digital solutions.</h2>
+<h2 align="left">Hi 👋! My name is Sandeep Yadav, and I am a data analytics professional with expertise in data analysis, data visualization, and business intelligence. My skills span across working with Excel, SQL, Python, Power BI, and statistics to analyze complex datasets and transform raw data into meaningful insights.
+
+Currently, I am focused on building interactive dashboards, analytical reports, and data-driven solutions that support smarter decision-making. With a strong understanding of data storytelling, problem-solving, and communication, I aim to deliver clear, impactful insights that drive business growth.
+
+My passion lies in uncovering patterns, optimizing processes, and creating data-driven strategies that add real value to organizations.</h2>
 
 ###
 
